@@ -11,7 +11,7 @@ const App = (props: any) => {
 
   return (
     <View style={styles.contain}>
-      <Text>欢迎</Text>
+      <Text>hello word</Text>
     </View>
   );
 };
